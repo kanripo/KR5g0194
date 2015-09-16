@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:59:48.277021
-#+TITLE: 上清洞真天寶大洞三景寶籙
-#+PROPERTY: DZID  DZ1385
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，34—101 二卷 正一部
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
